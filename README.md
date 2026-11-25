@@ -1,4 +1,4 @@
-[![ru](https://shields.io)](README.ru.md)
+🌐 **Language:** [English](README.md) | [Русский](README.ru.md)
 
 # 🐦 m-kolibri
 
