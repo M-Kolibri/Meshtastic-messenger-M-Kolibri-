@@ -34,7 +34,7 @@ Instead of transmitting raw character-by-character UTF-8 strings, text is tokeni
 
 ## 🗺 Roadmap
 - [x] **Phase 1:** Mathematical dictionary modeling, frame specification, and Protobuf integration design.
-- [ ] - [ ] **Phase 2:** Hardware testbench setup (Heltec V3 / LilyGO T-Beam) and BLE <-> LoRa transport validation.
+- [ ] **Phase 2:** Hardware testbench setup (Heltec V3 / LilyGO T-Beam) and BLE <-> LoRa transport validation.
 - [ ] **Phase 3 (MVP v0.1):** Kotlin tokenization/decompression engine, UI chat screen, and `.apk` release (using native Meshtastic AES-256 channel encryption).
 - [ ] **Phase 4 (Release v0.2):** Application-layer E2EE integration (Bouncy Castle: Curve25519 + ChaCha20), QR key exchange UI, and SQLCipher local storage.
 - [ ] **Phase 5:** Distribution via **GitHub Releases** and **F-Droid**.
