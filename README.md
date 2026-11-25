@@ -55,7 +55,7 @@ Please note that before submitting a Pull Request, you must agree to the terms o
 
 ## 💖 Support the Project (Donationware)
 **m-kolibri** is free, open-source software developed independently. Voluntary donations help fund hardware testbeds and ongoing development:
-* **TON / USDT (TON Network):** `YOUR_TON_WALLET_ADDRESS`
+* **TON / USDT (TON Network):** 
 
 ## 📄 License
 The **m-kolibri** project (source code, binary dictionaries, and documentation) is distributed under the free **GNU General Public License v3.0 (GPLv3)** — see the [LICENSE](LICENSE) file for details.
