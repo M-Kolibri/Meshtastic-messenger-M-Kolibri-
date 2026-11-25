@@ -58,6 +58,8 @@ Please note that before submitting a Pull Request, you must agree to the terms o
 * **TON / USDT (TON Network):** `YOUR_TON_WALLET_ADDRESS`
 
 ## 📄 License
-This project (source code, binary dictionaries, and documentation) is licensed under the **GNU General Public License v3.0 (GPLv3)** — see the [LICENSE](LICENSE) file for details.
-* Any forks or derivative works must remain open-source under GPLv3.
-* Commercial/proprietary use without explicit written permission from the author is prohibited. For commercial licensing inquiries, please contact the repository owner.
+The **m-kolibri** project (source code, binary dictionaries, and documentation) is distributed under the free **GNU General Public License v3.0 (GPLv3)** — see the [LICENSE](LICENSE) file for details.
+
+* Any modifications and derivative works (forks) must be distributed with open source code under the same GPLv3 license.
+* Using the code or dictionary databases in closed proprietary products without the author's written permission is prohibited.
+* For inquiries regarding a separate commercial license (without copyleft requirements), please contact the repository author.
